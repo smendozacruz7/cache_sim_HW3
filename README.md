@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HW3 - Cache Simulator 
 
 ## Description
@@ -55,3 +56,6 @@ Example:
 
 ## Author
 Sergio Mendoza
+=======
+# cache_sim_HW3
+>>>>>>> b96c0998fd353dcaaf0b20caca244e86169138c8
